@@ -57,5 +57,8 @@ npx gh-pages -d dist  # (if you add gh-pages package)
 * Dark mode toggle
 * PWA / offline
 
+### Social sharing image
+Add a 1200x630 image at `public/og-image.png` (optimize <300KB). Tags are already in `index.html`.
+
 ### License
 MIT (adjust as needed)
